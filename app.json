@@ -1,7 +1,7 @@
 {
   "name": "Sathishsk-bot",
   "description": "sk",
-  "repository": "https://github.com/sathishsksk/torrent-aio-bot",
+  "repository": "https://github.com/sathishsksk/sksksksk",
   "keywords": ["node", "express", "bot", "torrent", "automation"],
   "builpacks": [
     { "url": "heroku/nodejs" },
